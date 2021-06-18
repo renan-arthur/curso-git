@@ -24,6 +24,11 @@ namespace projeto_teste
 
             Console.WriteLine("Teste");
 
+            //git checkout <código-do-commit> (4914a5c) | Navega entre commits, alterando arquivos temporariamente.
+            //git checkout <nome-do-branch> (master) | Volta para o último commit.
+
+
+
         }
     }
 }
