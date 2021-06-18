@@ -27,6 +27,10 @@ namespace projeto_teste
             //git checkout <código-do-commit> (4914a5c) | Navega entre commits, alterando arquivos temporariamente.
             //git checkout <nome-do-branch> (master) | Volta para o último commit.
 
+            //git remote add origin <URI do repositorio remoto> |sincronizar repositorio local com o do github(remoto).
+            //git remote set-url origin <URI do repositorio remoto> |Sincroniza o repositório local com outro repositorio remoto(modifica)
+
+
 
 
         }
